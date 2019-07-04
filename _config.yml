@@ -5,9 +5,9 @@ gems:
   - jekyll-sitemap
   - jekyll-redirect-from
 
-name: Dibya Ghosh
-url: https://dibyaghosh.com
-enforce_ssl: dibyaghosh.com
+name: Kevin H. Luu
+url: https://khluu.github.io
+enforce_ssl: khluu.github.io
 description: yo
 
 collections:
